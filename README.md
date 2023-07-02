@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 # Ender-3-Marlin
 =======
+
+THIS VERSION IS CONFIGUER FOR ENDER 3 BOARD V4.2.7 SMTF103RE WITH DRIVER TSM2225/TSM2208
+
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
